@@ -1,0 +1,1 @@
+Hello, this is an example. Using this to practice my Git skills.
